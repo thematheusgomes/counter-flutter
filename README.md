@@ -1,8 +1,8 @@
 # Counter App
 
-A new Flutter project.
-
 This is my first app using Flutter
+
+![image](https://user-images.githubusercontent.com/47868223/123529468-d3c98480-d6c6-11eb-8916-e38493de6211.png)
 
 ## Getting Started
 
